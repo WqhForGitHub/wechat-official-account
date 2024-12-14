@@ -1,4 +1,4 @@
-# weChat-official-account
+# wechat-official-account
 微信公众号文章
 
 ## 程序员成长指北
